@@ -1,0 +1,32 @@
+.icon{
+    font-size: 100px;
+}
+.icono{
+    font-size: 100px !important;
+}
+
+.html i:hover{
+    color: rgb(255, 106, 7);
+    transition: 0.5s;
+}
+
+.css3 i:hover{
+    color: rgb(7, 156, 255);
+    transition: 0.5s;
+}
+
+
+.javascript i:hover{
+    color: rgb(245, 209, 49);
+    transition: 0.5s;
+}
+
+.angular i:hover{
+    color: rgb(214, 10, 3);
+    transition: 0.5s;
+}
+
+.nodejs i:hover{
+    color: rgb(61, 211, 24);
+    transition: 0.5s;
+}

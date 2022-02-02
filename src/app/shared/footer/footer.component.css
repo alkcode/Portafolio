@@ -1,0 +1,15 @@
+.footer{
+    margin-top: 90px;
+}
+.icon{
+    align-items: center;
+    width: 30px;
+    margin-left: 40px;
+    float: left;
+    padding-bottom: 50px;
+}
+/* 
+.icon:hover{
+    color: rgb(13, 116, 251) !important;
+    transition: 0.5s;
+} */

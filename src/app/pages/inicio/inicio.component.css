@@ -1,0 +1,12 @@
+.inicio{
+    width: 100%;
+    background-color: rgb(7, 134, 246);
+}
+
+h1,h3{
+    color: white;
+}
+.img{
+    border-radius:100px;
+    width: 500px;
+}
